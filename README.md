@@ -112,6 +112,6 @@ Another cool project description here.
 
 💖 Thanks for visiting my profile! Have a great day! 💖
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=trustedprince01.trustedprince01)
 
 </div>
