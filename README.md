@@ -1,25 +1,30 @@
-# Hi there! 👋 I'm [SOUL HACKER]
+# Hi there! 👋 I'm Chibuzor Prince (SOUL HACKER)
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **[Current Project/Job]**
-- 🌱 I'm currently learning **[Technologies you're learning]**
-- 👯 I'm looking to collaborate on **[What you want to collaborate on]**
-- 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[chibuzorprince68@gmail.com]**
-- ⚡ Fun fact: **[Still working on one ]**
+I'm a passionate **Full-Stack Developer** and **UI/UX Enthusiast** based in Lagos, Nigeria 🇳🇬. I love creating digital experiences that make a difference - from sleek web applications to innovative mobile solutions. When I'm not coding, you'll find me exploring the latest in AI/ML or contributing to open-source projects.
+
+- 🔭 I'm currently working on **Advanced React Applications & Fintech Solutions**
+- 🌱 I'm currently learning **Machine Learning, AWS Cloud Services & System Design**
+- 👯 I'm looking to collaborate on **Innovative Web Apps, Open Source Projects & Fintech Solutions**
+- 💬 Ask me about **React, TypeScript, Node.js, UI/UX Design & Full-Stack Architecture**
+- 📫 How to reach me: **chibuzorprince68@gmail.com**
+- 🌍 Location: **Lagos, Nigeria**
+- ⚡ Fun fact: **I believe every line of code tells a story - let's make it a bestseller! 📚✨**
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
-### Frontend
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -27,73 +32,100 @@
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+### Design & Tools
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trustedprince01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trustedprince01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trustedprince01&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=trustedprince01&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trustedprince01&theme=redical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true" alt="Activity Graph" />
 </div>
 
-## 🎯 Current Focus
+## 🎯 What I'm Up To
 ```javascript
-const currentFocus = {
-    learning: ["Machine Learning", "Cloud Architecture", "DevOps"],
-    building: ["Personal Portfolio", "Open Source Projects"],
-    goals: ["Contribute to 10 open source projects", "Master system design"],
-    interests: ["AI/ML", "Web Development", "Mobile Apps"]
+const chibuzorPrince = {
+    role: "Full-Stack Developer & UI/UX Designer",
+    location: "Lagos, Nigeria 🇳🇬",
+    currentProjects: [
+        "Track Slip - Personal Finance Tracker",
+        "AI-Powered Web Applications",
+        "Open Source Contributions"
+    ],
+    techStack: {
+        frontend: ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "Python", "Supabase"],
+        mobile: ["React Native", "Flutter"],
+        tools: ["Git", "Docker", "AWS", "Figma"]
+    },
+    learning: ["Machine Learning", "System Design", "Cloud Architecture"],
+    goals2024: [
+        "Build 10 production-ready applications",
+        "Contribute to major open source projects",
+        "Master cloud architecture patterns",
+        "Launch my own tech startup"
+    ],
+    funFact: "I debug code like I solve puzzles - with patience and lots of coffee! ☕",
+    motto: "Code with purpose, design with empathy, build with passion! 🚀"
 };
 ```
 
 ## 🌟 Featured Projects
 
-### 🔥 [Project Name 1](https://github.com/yourusername/project1)
-Brief description of your amazing project. What it does, technologies used.
-- **Tech Stack:** React, Typescript, Supabase
-- **Features:** Feature 1, Feature 2, Feature 3
+### 🔥 [Track Slip - Smart Expense Tracker](https://github.com/trustedprince01/track-slip)
+A modern, intuitive expense tracking application that helps users take control of their finances with real-time insights and beautiful data visualizations.
+- **Tech Stack:** React, TypeScript, Supabase, Tailwind CSS
+- **Features:** Real-time expense tracking, Smart categorization, Data analytics dashboard, Responsive design, Dark/Light mode
 - ⭐ **Live Demo:** [View Project](https://track-slip.netlify.app/)
 
-### 💻 [Project Name 2](https://github.com/yourusername/project2)
-Another cool project description here.
-- **Tech Stack:** Python, Flask, PostgreSQL
-- **Features:** Feature 1, Feature 2, Feature 3
-- ⭐ **Live Demo:** [View Project](https://your-project-link.com)
+### 💻 [Personal Portfolio Website](https://github.com/trustedprince01/portfolio)
+A showcase of my journey as a full-stack developer, featuring my projects, skills, and professional experience with an elegant, responsive design.
+- **Tech Stack:** React, JavaScript, CSS3, Framer Motion, Netlify
+- **Features:** Interactive UI animations, Project showcase, Skills visualization, Contact integration, SEO optimized
+- ⭐ **Live Demo:** [View Portfolio](https://chibuzorprince.netlify.app/)
+
+### 🚀 [Coming Soon: AI Chat Assistant](https://github.com/trustedprince01/ai-assistant)
+An intelligent chatbot application powered by modern AI technologies, designed to provide helpful and context-aware responses.
+- **Tech Stack:** Next.js, OpenAI API, Node.js, MongoDB
+- **Features:** Natural language processing, Context awareness, Multi-language support, Learning capabilities
+- 🔨 **Status:** In Development
 
 ## 📫 Let's Connect!
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chibuzor-prince)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/soulhacker_dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://chibuzorprince.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chibuzorprince68@gmail.com)
 
 </div>
 
@@ -112,6 +144,6 @@ Another cool project description here.
 
 💖 Thanks for visiting my profile! Have a great day! 💖
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=trustedprince01.trustedprince01)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
 
 </div>
