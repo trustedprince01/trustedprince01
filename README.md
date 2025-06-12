@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [SOUL HACKER]
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **[Current Project/Job]**
 - 🌱 I'm currently learning **[Technologies you're learning]**
 - 👯 I'm looking to collaborate on **[What you want to collaborate on]**
 - 💬 Ask me about **[Your expertise areas]**
-- 📫 How to reach me: **[Your email]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 📫 How to reach me: **[chibuzorprince68@gmail.com]**
+- ⚡ Fun fact: **[Still working on one ]**
 
 ## 🛠️ Technologies & Tools
 
@@ -59,7 +59,7 @@
 
 ## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trustedprince01&theme=redical&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🎯 Current Focus
@@ -76,9 +76,9 @@ const currentFocus = {
 
 ### 🔥 [Project Name 1](https://github.com/yourusername/project1)
 Brief description of your amazing project. What it does, technologies used.
-- **Tech Stack:** React, Node.js, MongoDB
+- **Tech Stack:** React, Typescript, Supabase
 - **Features:** Feature 1, Feature 2, Feature 3
-- ⭐ **Live Demo:** [View Project](https://your-project-link.com)
+- ⭐ **Live Demo:** [View Project](https://track-slip.netlify.app/)
 
 ### 💻 [Project Name 2](https://github.com/yourusername/project2)
 Another cool project description here.
