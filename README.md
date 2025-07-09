@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer** and **UI/UX Enthusiast**. I love creat
 - 👯 I'm looking to collaborate on **Innovative Web Apps, Open Source Projects & Fintech Solutions**
 - 💬 Ask me about **React, TypeScript, Node.js, UI/UX Design & Full-Stack Architecture**
 - 📫 How to reach me: **chibuzorprince68@gmail.com**
-- 🌍 Location: **Lagos, Nigeria**
+- 🌍 Location: **In your Code**
 - ⚡ Fun fact: **I believe every line of code tells a story - let's make it a bestseller! 📚✨**
 
 ## 🛠️ Technologies & Tools
