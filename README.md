@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Chibuzor Prince (SOUL HACKER)
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Developer** and **UI/UX Enthusiast** based in Lagos, Nigeria 🇳🇬. I love creating digital experiences that make a difference - from sleek web applications to innovative mobile solutions. When I'm not coding, you'll find me exploring the latest in AI/ML or contributing to open-source projects.
+I'm a passionate **Full-Stack Developer** and **UI/UX Enthusiast**. I love creating digital experiences that make a difference - from sleek web applications to innovative mobile solutions. When I'm not coding, you'll find me exploring the latest in AI/ML or contributing to open-source projects.
 
 - 🔭 I'm currently working on **Advanced React Applications & Fintech Solutions**
 - 🌱 I'm currently learning **Machine Learning, AWS Cloud Services & System Design**
