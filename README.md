@@ -64,11 +64,6 @@ I'm a passionate **Full-Stack Developer** and **UI/UX Enthusiast**. I love creat
   <img src="https://github-profile-trophy.vercel.app/?username=trustedprince01&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trustedprince01&theme=redical&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🎯 What I'm Up To
 ```javascript
 const chibuzorPrince = {
